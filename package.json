@@ -43,6 +43,6 @@
     "gulp-util": "^3.0.7",
     "through": "^2.3.8",
     "tslint": "^4.0.1",
-    "typescript": "^2"
+    "typescript": "^2.1.6"
   }
 }
